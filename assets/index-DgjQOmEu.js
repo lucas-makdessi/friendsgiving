@@ -6,7 +6,7 @@
       <textarea name="question" rows="3" required style="width:100%;"></textarea>
     </label>
     <label>
-      Rank (1-5):
+      Importance (1-5):
       <input 
         type="number" 
         name="rank" 
